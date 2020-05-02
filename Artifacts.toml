@@ -1,0 +1,113 @@
+[[Leptonica]]
+arch = "x86_64"
+git-tree-sha1 = "ba91449b57ca4dde870dc30530a660e1d960027f"
+os = "freebsd"
+
+    [[Leptonica.download]]
+    sha256 = "1326272d96433308f95c723de4ab6df28d2e8d4deb4f31d459e13a048a3a6730"
+    url = "https://github.com/pixel27/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[Leptonica]]
+arch = "x86_64"
+git-tree-sha1 = "782286a2f3d6bfbc73f39a7356892685dcd2bd8d"
+os = "windows"
+
+    [[Leptonica.download]]
+    sha256 = "d0483f9d37c2518585c73ad44447c046e36da192e3b54a8c9612945511898b74"
+    url = "https://github.com/pixel27/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.x86_64-w64-mingw32.tar.gz"
+[[Leptonica]]
+arch = "x86_64"
+git-tree-sha1 = "e0c4261b8ea7fd81a8d6a9fa17d93a547144b652"
+libc = "glibc"
+os = "linux"
+
+    [[Leptonica.download]]
+    sha256 = "47fa5364d0c6c1eb4dab521a0b8987a00983c5f9681af15796258b4e199f9519"
+    url = "https://github.com/pixel27/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.x86_64-linux-gnu.tar.gz"
+[[Leptonica]]
+arch = "armv7l"
+git-tree-sha1 = "889c258a6acd3856e81dfff06b5a41b02d99267e"
+libc = "musl"
+os = "linux"
+
+    [[Leptonica.download]]
+    sha256 = "f5520dded74225ee275bfdb15becdc7bdfbe83b11bb8cb3805184ce72eff5c43"
+    url = "https://github.com/pixel27/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.armv7l-linux-musleabihf.tar.gz"
+[[Leptonica]]
+arch = "i686"
+git-tree-sha1 = "8bc13fe37b08c75e1d9a0a75c9f5bc44d994678c"
+libc = "glibc"
+os = "linux"
+
+    [[Leptonica.download]]
+    sha256 = "1380b18e7b3317fd7a9c0e43646f3389470ff994153d09c2345c1c3a720af5c3"
+    url = "https://github.com/pixel27/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.i686-linux-gnu.tar.gz"
+[[Leptonica]]
+arch = "aarch64"
+git-tree-sha1 = "e79d5c0c638f947db8ae0f592a39e1746b62a204"
+libc = "musl"
+os = "linux"
+
+    [[Leptonica.download]]
+    sha256 = "e55065151836bccb824d2a70b7e77f5a0472350eab2090874aa44b5427d026dc"
+    url = "https://github.com/pixel27/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.aarch64-linux-musl.tar.gz"
+[[Leptonica]]
+arch = "i686"
+git-tree-sha1 = "06f19451842b5def5217adea88d71df077710b05"
+os = "windows"
+
+    [[Leptonica.download]]
+    sha256 = "8d9a741aa075fad98653f1fed58296b9ef439f70401f1eed5841cfb56e4f651a"
+    url = "https://github.com/pixel27/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.i686-w64-mingw32.tar.gz"
+[[Leptonica]]
+arch = "aarch64"
+git-tree-sha1 = "5488095f1269e3e312957802bb273ab2acd893e8"
+libc = "glibc"
+os = "linux"
+
+    [[Leptonica.download]]
+    sha256 = "c72bab716202d79a7a7bfd1d69d86e962d359288b08f23c09ead3ef79a5100fc"
+    url = "https://github.com/pixel27/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.aarch64-linux-gnu.tar.gz"
+[[Leptonica]]
+arch = "i686"
+git-tree-sha1 = "cb014158e083eeb369654fb72c28745630116076"
+libc = "musl"
+os = "linux"
+
+    [[Leptonica.download]]
+    sha256 = "4e9192d617cdb9ca9d4460245d0669d55bc91196cfe2c47cd466b987f52f594a"
+    url = "https://github.com/pixel27/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.i686-linux-musl.tar.gz"
+[[Leptonica]]
+arch = "x86_64"
+git-tree-sha1 = "875c906e47dc33d97a4ba1ebfc0b89ddc276e167"
+libc = "musl"
+os = "linux"
+
+    [[Leptonica.download]]
+    sha256 = "375c2d43a95e72d44ec2d6f7b883622ad5da3ae7e29dbc90b945b84abbf6f6ee"
+    url = "https://github.com/pixel27/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.x86_64-linux-musl.tar.gz"
+[[Leptonica]]
+arch = "powerpc64le"
+git-tree-sha1 = "4a9f63489f49bde163d45e4a8bcdfe2e32ef5049"
+libc = "glibc"
+os = "linux"
+
+    [[Leptonica.download]]
+    sha256 = "cc1602e9c177b43b69b6167361d9c5f1314eca3595281c167605210c30ae4d3e"
+    url = "https://github.com/pixel27/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.powerpc64le-linux-gnu.tar.gz"
+[[Leptonica]]
+arch = "x86_64"
+git-tree-sha1 = "0102b83c047d90ebfc365a713fd7ff553c822013"
+os = "macos"
+
+    [[Leptonica.download]]
+    sha256 = "1a1366c345283b33a897cd25153c4fb8959c0687c98cb7874ea05557d56bd010"
+    url = "https://github.com/pixel27/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.x86_64-apple-darwin14.tar.gz"
+[[Leptonica]]
+arch = "armv7l"
+git-tree-sha1 = "4941ba9659cb60979d66b2589d1a2abae13d5ba7"
+libc = "glibc"
+os = "linux"
+
+    [[Leptonica.download]]
+    sha256 = "3a98dd6b1ca27adacd3d3772ddce1602e00e73bfc141144472571ff6a1193140"
+    url = "https://github.com/pixel27/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.armv7l-linux-gnueabihf.tar.gz"
